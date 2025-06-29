@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/noaht/OneDrive/Computer Science/ICS4/Assignments/PASS3/GridWarShowdown/GridWarShowdown/Content/Fonts/TitleFont.spritefont</SourceFile>
+  <SourceTime>2023-12-15T20:44:20-05:00</SourceTime>
+  <DestFile>C:/Users/noaht/OneDrive/Computer Science/ICS4/Assignments/PASS3/GridWarShowdown/GridWarShowdown/bin/Debug/Content/Fonts/TitleFont.xnb</DestFile>
+  <DestTime>2024-01-19T20:21:28.9806684-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
