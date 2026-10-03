@@ -3,17 +3,13 @@
 Grid War Showdown is a local, two-player, turn-based grid battle game written in C# using MonoGame. Players select item queues and take turns moving, attacking, healing, and using utility items.
 
 ## Run the included application (Windows)
-
-The ZIP contains a compiled application, so you can play without building the source code or installing Visual Studio.
-
-1. Extract **all** of `TeitlebaumN_PASS3.zip` into a writable folder on your computer. Do not run the application from inside the ZIP.
-2. Open the following folder inside the extracted files:
+1. Open the following folder inside the extracted files:
 
    ```text
    GridWarShowdown\GridWarShowdown\bin\Debug
    ```
 
-3. Double-click **GridWarShowdown.exe**.
+2. Double-click **GridWarShowdown.exe**.
 
 Keep the executable together with its DLLs, `Content` folder, `x86` and `x64` folders, and `Stats.txt`. Copying only the executable will leave required dependencies and game assets behind.
 
